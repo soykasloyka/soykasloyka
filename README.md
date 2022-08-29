@@ -1,2 +1,2 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soykasloyka&layout=compact)
-<img align="right" width="207rem" alt="GIF" src="https://tenor.com/view/spy-x-family-anya-anya-forger-anya-spy-x-family-anya-spy-x-family-anime-gif-25679849" />
+<img align="right" width="207rem" alt="GIF" src="https://i.pinimg.com/originals/52/a0/94/52a0949db5a90b7da4f9bddcf66b2a0c.gif" />
