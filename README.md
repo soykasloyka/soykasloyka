@@ -4,6 +4,7 @@
 1. [Kalastus TV](https://kalastus-tv.com)
 2. [Soykasloyka](https://soykasloyka.com)
 3. [Norpa Trading](https://llcnorpa.com)
+4. [Haganero](https://haganero.com)
 
 ## Group projects:
 1. [Mygoodknife](https://mygoodknife.com)
