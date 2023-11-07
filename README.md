@@ -6,7 +6,7 @@
 3. [Norpa Trading](https://llcnorpa.com)
 4. [Haganero](https://haganero.com)
 
-## Group projects:
+## Team projects:
 1. [Mygoodknife](https://mygoodknife.com)
 
 ## <img src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" alt="GIF" width="40">  Links
