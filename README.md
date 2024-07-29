@@ -2,9 +2,8 @@
 
 I live in Finland most of my life and have Finnish citizenship. 
 
-Graduated ICT studies in LAB University with huge work experience. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Proven experience developing consumer-focused websites and programs using Java, Python, PHP, Node.js, React.js, MySQL and JavaScript. Designed and developed web applications across multiple APIs, third-party integrations and databases. You can find all my skills with different types of certificates on my LinkedIn profile, and code examples on GitHub.
+Graduated ICT studies in LAB University with huge work experience. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Proven experience developing consumer-focused websites and programs using Java, Python, PHP, Node.js, React.js, MySQL and JavaScript. Designing and developing web applications across multiple APIs, third-party integrations and databases. Worked with platforms like WiX, Shopify, PrestaShop and WordPress. Full project management from start to finish.
 
-I have experience in development of streaming platform alone - design, interface and the whole back-end. This project was developed specifically for Ville Haapasalo and personally approved by him at all stages. Since 2018, I have been working in my parents' family business, performing various tasks - from managing an online store to installing and configuring cash systems. In 2022, I completed an internship where created a standalone Java server computer based on the Raspberry Pi, for which also developed a compact and shock-resistant 3D printed case.
 
 ## Main solo projects:
 1. [Kalastus TV](https://kalastus-tv.com)
