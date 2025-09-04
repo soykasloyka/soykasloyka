@@ -6,10 +6,10 @@ Graduated ICT studies in LAB University with huge work experience. Organized and
 
 
 ## Main solo projects:
-1. [Kalastus TV](https://kalastus-tv.com)
-2. [Soykasloyka](https://soykasloyka.com)
-3. [Norpa Trading](https://llcnorpa.com)
-4. [Haganero](https://haganero.com)
+1. [Haganero](https://haganero.com)
+2. [Norpa Trading](https://llcnorpa.com)
+3. [Soykasloyka](https://soykasloyka.com)
+4. [Kalastus TV](https://kalastus-tv.com)
 
 ## Team projects:
 1. [Mygoodknife](https://mygoodknife.com)
